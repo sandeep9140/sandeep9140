@@ -236,7 +236,7 @@ Currently building and experimenting with additional projects across:
 
 <div align="center">
 
-## 💡 **150+ DSA Problems Solved in Java**
+## 💡 **600+ DSA Problems Solved in Java**
 
 ### `Think → Code → Test → Optimize`
 
@@ -288,7 +288,7 @@ Currently building and experimenting with additional projects across:
 | -- | -------------------------------------------------------------------------------- |
 | ☕  | Java Full Stack with Spring Boot & Microservices Certification                   |
 | 🌱 | Java Backend & Spring Framework Certification                                    |
-| 🧠 | 150+ DSA Problems Solved in Java                                                 |
+| 🧠 | 600+ DSA Problems Solved in Java                                                 |
 | 🏆 | Smart India Hackathon / Campus Innovation Fest Participant                       |
 | 🚀 | Presented Java & Spring Boot backend architecture for an e-commerce startup idea |
 
